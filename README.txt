@@ -46,3 +46,5 @@ Disqualification:
   -The program must be Error Free and not throw any uncaught exceptions
   -A program must always make a legal move.
   -If the program hangs, I may intterupt the execution, and the program will be disqualified
+  
+  FYI: This will be using python 3.9 <---
