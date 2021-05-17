@@ -1,3 +1,4 @@
+**Important** If you don't see your name in the players folder, please contact me to tell me you are entering.
 This Repository Contains the Instructions for the TicTacToe Bot Battle. 
 Note: This Game is slightly modified. We will start with a regular TicTacToe board, but if there is no winner, the board will be change to a 4x4 and then to a 5x5 etc. (Make sure to account for this
 
