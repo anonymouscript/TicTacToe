@@ -5,7 +5,7 @@ When TicTacToe.py is run, it will find the scripts in the players folder and pit
 
 Instructions:
 You will create a python file for your bot it has the following requirements:
- -it will be named "{YourName}.py"
+ -it will be named "{YourName+LastInitial}.py"
  -it will implement a method called move described bellow
  -it will only use code that you are liscenced to used
  -you are allowed to use parts of someone else's code, as long as you have permission (Through a liscense or otherwise)
@@ -24,7 +24,7 @@ board: this parameter will be a list containing lists that represent the rows (0
        1 means that there is an X
        2 means that there is an O
        
-mark:  this tells you which number you are playingas
+mark:  this tells you which number you are playing as
 
 sideLen: this tells you how manny rows and columns the Tic-Tac-Toe board has. This number will start at 3 and will 
 
@@ -46,5 +46,10 @@ Disqualification:
   -The program must be Error Free and not throw any uncaught exceptions
   -A program must always make a legal move.
   -If the program hangs, I may intterupt the execution, and the program will be disqualified
+Lisence:
+  By submitting the code you are giving me a lisense to use the code in relation to the competition.
+
   
   FYI: This will be using python 3.9 <---
+  In order to submit your code please use this google form:
+    https://forms.gle/U53mA48cXDLbATRk7
