@@ -54,3 +54,4 @@ Lisence:
   FYI: This will be using python 3.9 <---
   In order to submit your code please use this google form:
     https://forms.gle/U53mA48cXDLbATRk7
+    However, Your code will not be published until the final versions of all participating programs are finalized. 
